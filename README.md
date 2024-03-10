@@ -1,7 +1,8 @@
-# A-Survey-Of-LLM-Surveys
-It's always a good way to read some surveys before diving into a new field. 
-This list would be updated from time to time.
-> The date at the end of each item shows the last time it has been updated, while "updating" means it's still being updated actively now.
+# A Collection Of LLM Surveys
+
+It's always a good way to read some surveys before diving into a new field. This collection would be updated from time to time.
+
+The date at the end of each item shows the last time it has been updated, while "updating" means it's still being updated actively until now.
 
 General LLMs
 ------
