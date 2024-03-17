@@ -16,8 +16,10 @@ Efficient LLMs
 ------
 + Efficient LLM Survey: [https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey) (updating)
 + Efficient LLM Paperlist: [https://github.com/horseee/Awesome-Efficient-LLM](https://github.com/horseee/Awesome-Efficient-LLM) (updating)
++ Efficient ViTs: [https://github.com/MingSun-Tse/Awesome-Efficient-ViT](https://github.com/MingSun-Tse/Awesome-Efficient-ViT) (2022)
 + LLM Acceleration: [https://github.com/galeselee/Awesome_LLM_Accelerate-PaperList](https://github.com/galeselee/Awesome_LLM_Accelerate-PaperList) (updating)
 + LLM Compression: [https://github.com/HuangOwen/Awesome-LLM-Compression](https://github.com/HuangOwen/Awesome-LLM-Compression) (updating)
+
 
 Diffusion
 ------
