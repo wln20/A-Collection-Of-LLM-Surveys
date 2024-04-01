@@ -18,6 +18,7 @@ Efficient LLMs
 + Efficient LLM Paperlist: [https://github.com/horseee/Awesome-Efficient-LLM](https://github.com/horseee/Awesome-Efficient-LLM) (updating)
 + Efficient ViTs: [https://github.com/MingSun-Tse/Awesome-Efficient-ViT](https://github.com/MingSun-Tse/Awesome-Efficient-ViT) (2022)
 + LLM Acceleration: [https://github.com/galeselee/Awesome_LLM_Accelerate-PaperList](https://github.com/galeselee/Awesome_LLM_Accelerate-PaperList) (updating)
++ Efficient LLM Inference: [https://arxiv.org/abs/2402.16363](https://arxiv.org/abs/2402.16363) (2024.02)
 + LLM Compression: [https://github.com/HuangOwen/Awesome-LLM-Compression](https://github.com/HuangOwen/Awesome-LLM-Compression) (updating)
 
 
