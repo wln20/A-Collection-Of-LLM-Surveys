@@ -34,3 +34,7 @@ Multimodal
 + Text-to-Image: [https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image) (updating)
 + Video Understanding: [https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) (updating)
 + Multimodal Agents: [https://github.com/jun0wanan/awesome-large-multimodal-agents](https://github.com/jun0wanan/awesome-large-multimodal-agents) (updating)
+
+Reinforcement Learning
+------
++ LLM-enhanced RL: [https://arxiv.org/abs/2404.00282](https://arxiv.org/abs/2404.00282) (2024.04)
