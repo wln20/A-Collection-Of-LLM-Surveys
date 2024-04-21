@@ -22,12 +22,6 @@ Efficient LLMs
 + Efficient LLM Serving: [https://arxiv.org/abs/2312.15234](https://arxiv.org/abs/2312.15234) (2023.12)
 + LLM Compression: [https://github.com/HuangOwen/Awesome-LLM-Compression](https://github.com/HuangOwen/Awesome-LLM-Compression) (updating)
 
-
-Diffusion
-------
-+ Diffusion Models: [https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) (updating)
-+ Video Diffusion Models: [https://github.com/ChenHsing/Awesome-Video-Diffusion-Models](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models) (updating)
-
 Multimodal
 ------
 + Multimodal LLMs Survey: [https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) (updating)
@@ -35,6 +29,16 @@ Multimodal
 + Text-to-Image: [https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image) (updating)
 + Video Understanding: [https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) (updating)
 + Multimodal Agents: [https://github.com/jun0wanan/awesome-large-multimodal-agents](https://github.com/jun0wanan/awesome-large-multimodal-agents) (updating)
+
+LLM Agents
+------
++ LLM Agents: [https://github.com/WooooDyy/LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List) (updating)
++ Multimodal LLM Agents: [https://arxiv.org/abs/2402.15116](https://arxiv.org/abs/2402.15116) (2024.02)
+
+Diffusion
+------
++ Diffusion Models: [https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) (updating)
++ Video Diffusion Models: [https://github.com/ChenHsing/Awesome-Video-Diffusion-Models](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models) (updating)
 
 Reinforcement Learning
 ------
