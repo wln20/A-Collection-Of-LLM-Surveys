@@ -10,31 +10,38 @@ General LLMs
 + LLMs Survey: [https://arxiv.org/abs/2402.06196](https://arxiv.org/abs/2402.06196) (2024.02)
 + LLMs Evaluation: [https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers) (2023.11)
 + Long Context: [https://github.com/Strivin0311/long-llms-learning](https://github.com/Strivin0311/long-llms-learning) (updating)
-
++ Instruction Tuning & Learning: [https://github.com/RenzeLou/awesome-instruction-learning](https://github.com/RenzeLou/awesome-instruction-learning) (updating)
++ Reasoning Models: [https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) (2024.01)
 
 Efficient LLMs
 ------
 + Efficient LLM Survey: [https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey) (updating)
 + Efficient LLM Paperlist: [https://github.com/horseee/Awesome-Efficient-LLM](https://github.com/horseee/Awesome-Efficient-LLM) (updating)
 + Efficient ViTs: [https://github.com/MingSun-Tse/Awesome-Efficient-ViT](https://github.com/MingSun-Tse/Awesome-Efficient-ViT) (2022)
-+ LLM Acceleration: [https://github.com/galeselee/Awesome_LLM_Accelerate-PaperList](https://github.com/galeselee/Awesome_LLM_Accelerate-PaperList) (updating)
++ LLMs Acceleration: [https://github.com/galeselee/Awesome_LLM_Accelerate-PaperList](https://github.com/galeselee/Awesome_LLM_Accelerate-PaperList) (updating)
++ LLMs Compression: [https://github.com/HuangOwen/Awesome-LLM-Compression](https://github.com/HuangOwen/Awesome-LLM-Compression) (updating)
 + Efficient LLM Inference: [https://arxiv.org/abs/2402.16363](https://arxiv.org/abs/2402.16363) (2024.02)
 + Efficient LLM Inference: [https://arxiv.org/pdf/2404.14294](https://arxiv.org/pdf/2404.14294) (2024.04)
 + Efficient LLM Serving: [https://arxiv.org/abs/2312.15234](https://arxiv.org/abs/2312.15234) (2023.12)
-+ LLM Compression: [https://github.com/HuangOwen/Awesome-LLM-Compression](https://github.com/HuangOwen/Awesome-LLM-Compression) (updating)
 
-Multimodal
+
+Non-Transformer LLMs
+---
++ SSM Survey: [https://arxiv.org/pdf/2404.16112](https://arxiv.org/pdf/2404.16112) (2024.04)
++ Visual Mamba: [https://arxiv.org/pdf/2404.15956](https://arxiv.org/pdf/2404.15956) (2024.04)
+
+Multimodal LLMs
 ------
 + Multimodal LLMs Survey: [https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) (updating)
 + Multimodal LLMs Evaluation: [https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) (updating)
 + Text-to-Image: [https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image) (updating)
 + Video Understanding: [https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) (updating)
-+ Multimodal Agents: [https://github.com/jun0wanan/awesome-large-multimodal-agents](https://github.com/jun0wanan/awesome-large-multimodal-agents) (updating)
 
 LLM Agents
 ------
 + LLM Agents: [https://github.com/WooooDyy/LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List) (updating)
 + Multimodal LLM Agents: [https://arxiv.org/abs/2402.15116](https://arxiv.org/abs/2402.15116) (2024.02)
++ Multimodal LLM Agents: [https://github.com/jun0wanan/awesome-large-multimodal-agents](https://github.com/jun0wanan/awesome-large-multimodal-agents) (updating)
 
 Diffusion
 ------
