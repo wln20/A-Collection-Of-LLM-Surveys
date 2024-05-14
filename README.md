@@ -28,6 +28,7 @@ Efficient LLMs
 Non-Transformer LLMs
 ---
 + SSM Survey: [https://arxiv.org/pdf/2404.16112](https://arxiv.org/pdf/2404.16112) (2024.04)
++ Mamba: [https://github.com/yyyujintang/Awesome-Mamba-Papers](https://github.com/yyyujintang/Awesome-Mamba-Papers) (updating)
 + Visual Mamba: [https://arxiv.org/pdf/2404.15956](https://arxiv.org/pdf/2404.15956) (2024.04)
 
 Multimodal LLMs
