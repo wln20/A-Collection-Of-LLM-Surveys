@@ -55,3 +55,7 @@ Diffusion
 Reinforcement Learning
 ------
 + LLM-enhanced RL: [https://arxiv.org/abs/2404.00282](https://arxiv.org/abs/2404.00282) (2024.04)
+
+AI4Science
+------
++ Survey: [https://www.nature.com/articles/s41586-023-06221-2](https://www.nature.com/articles/s41586-023-06221-2)
