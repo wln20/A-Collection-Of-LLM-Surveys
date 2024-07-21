@@ -48,9 +48,11 @@ LLM Agents
 
 Diffusion
 ------
++ Diffusion tutorial: [https://lilianweng.github.io/posts/2021-07-11-diffusion-models/](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
 + Diffusion Models: [https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) (updating)
 + Diffusion Models: [https://github.com/diff-usion/Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models) (2023.12)
 + Video Diffusion Models: [https://github.com/ChenHsing/Awesome-Video-Diffusion-Models](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models) (updating)
++ Video Diffusion tutorial: [https://lilianweng.github.io/posts/2024-04-12-diffusion-video/](https://lilianweng.github.io/posts/2024-04-12-diffusion-video/)
 
 Reinforcement Learning
 ------
