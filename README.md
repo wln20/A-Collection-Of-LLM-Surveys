@@ -12,6 +12,7 @@ General LLMs
 + Long Context: [https://github.com/Strivin0311/long-llms-learning](https://github.com/Strivin0311/long-llms-learning) (updating)
 + Instruction Tuning & Learning: [https://github.com/RenzeLou/awesome-instruction-learning](https://github.com/RenzeLou/awesome-instruction-learning) (updating)
 + Reasoning Models: [https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) (2024.01)
++ LLM Alignment: [https://arxiv.org/pdf/2407.16216](https://arxiv.org/pdf/2407.16216) (2024.07)
 
 Efficient LLMs
 ------
