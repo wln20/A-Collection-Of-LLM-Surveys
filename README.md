@@ -37,6 +37,7 @@ Multimodal LLMs
 + Multimodal LLMs Survey: [https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) (updating)
 + Multimodal LLMs Paperlist: [https://github.com/friedrichor/Awesome-Multimodal-Papers](https://github.com/friedrichor/Awesome-Multimodal-Papers) (updating)
 + Multimodal LLMs Evaluation: [https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) (updating)
++ Multimodal fusion: [https://arxiv.org/abs/2404.18947](https://arxiv.org/abs/2404.18947) (2024.04)
 + Efficient Multimodal LLMs: [https://github.com/lijiannuist/Efficient-Multimodal-LLMs-Survey](https://github.com/lijiannuist/Efficient-Multimodal-LLMs-Survey) (updating)
 + Text-to-Image: [https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image) (updating)
 + Video Understanding: [https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) (updating)
