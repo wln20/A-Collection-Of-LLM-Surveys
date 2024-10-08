@@ -59,6 +59,7 @@ Diffusion
 Reinforcement Learning
 ------
 + LLM-enhanced RL: [https://arxiv.org/abs/2404.00282](https://arxiv.org/abs/2404.00282) (2024.04)
++ LLM Alignment: [https://arxiv.org/abs/2407.16216](https://arxiv.org/abs/2407.16216) (2024.07)
 
 Graph Neural Network
 ------
