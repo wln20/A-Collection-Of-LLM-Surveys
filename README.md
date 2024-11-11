@@ -25,6 +25,7 @@ Efficient LLMs
 + Efficient LLM Inference: [https://arxiv.org/pdf/2404.14294](https://arxiv.org/pdf/2404.14294) (2024.04)
 + Efficient LLM Serving: [https://arxiv.org/abs/2312.15234](https://arxiv.org/abs/2312.15234) (2023.12)
 + Prompt Compression: [https://arxiv.org/pdf/2410.12388](https://arxiv.org/pdf/2410.12388) (2024.10)
++ Speculative Decoding: [https://arxiv.org/pdf/2401.07851](https://arxiv.org/pdf/2401.07851) (2024.06)
 
 Non-Transformer LLMs
 ---
