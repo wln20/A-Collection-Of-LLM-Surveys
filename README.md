@@ -48,6 +48,7 @@ LLM Agents
 + LLM Agents: [https://github.com/WooooDyy/LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List) (updating)
 + Multimodal LLM Agents: [https://arxiv.org/abs/2402.15116](https://arxiv.org/abs/2402.15116) (2024.02)
 + Multimodal LLM Agents: [https://github.com/jun0wanan/awesome-large-multimodal-agents](https://github.com/jun0wanan/awesome-large-multimodal-agents) (updating)
++ Retrieval Augmented Generation: [https://arxiv.org/abs/2402.19473](https://arxiv.org/abs/2402.19473) (2024.06)
 
 Diffusion
 ------
@@ -60,7 +61,6 @@ Diffusion
 Reinforcement Learning
 ------
 + LLM-enhanced RL: [https://arxiv.org/abs/2404.00282](https://arxiv.org/abs/2404.00282) (2024.04)
-+ LLM Alignment: [https://arxiv.org/abs/2407.16216](https://arxiv.org/abs/2407.16216) (2024.07)
 
 Graph Neural Network
 ------
